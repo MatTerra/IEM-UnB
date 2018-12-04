@@ -1,0 +1,2 @@
+### Potenciômetro
+O potenciômetro é um resistor variável controlado por uma manivela. De acordo com sua posição, ele irá variar a resistência entre seus terminais. Como o potenciômetro possui uma resistência total invariável, a soma das resistências entre os terminais das pontas e o central é conhecida, desta forma, podemos montar um divisor de tensão e, a partir da medida da tensão no terminal central, é possível determinar sua posição.
