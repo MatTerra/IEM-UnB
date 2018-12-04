@@ -1,0 +1,2 @@
+### Motores
+Motores CC são atuadores capazes de transformar energia elétrica em energia cinética, ou seja movimento. São adequados para aplicações em que seja necessário gerar algum tipo de movimento em que a precisão não seja relevante. Recomendamos o modelo de motor abaixo, com caixa de redução que pode ser adquirido facilmente pela internet ou em lojas físicas em Brasília, como a TD Tec e a HU Infinito. 

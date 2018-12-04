@@ -1,0 +1,2 @@
+### Servo motores
+Servo motores são atuadores comuns que possibilitam o controle do posicionamento angular de seu eixo com precisão. Isso acontece pois esse componente conta com uma placa e sensor de controle internos que garantem que ele está na posição desejada. Esse motor, diferentemente dos motores CC simples, possui três fios (dois de alimentação e um de sinal). Outro ponto importante desse motor é que seu controle não é feito enviando sinais para que o motor rotacione para frente ou para trás, mas sim por meio de pulsos que descrevem o ângulo desejado.
